@@ -20,6 +20,14 @@
 
 {Explain who the blog is targeted towards, including experience level with your topic or information they are interested in}
 
+**Sources:**
+
+{List sites/links where you plan to get info from}
+
+{List potential people to interview, within or outside of Bit (names aren't necessary, i.e. 'someone from the people team' is fine)}
+
+{Include at least 3 questions you would like to ask during interviews}
+
 ### Step Two
 
 **Outline Blog:**
